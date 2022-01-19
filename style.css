@@ -1,0 +1,79 @@
+body {
+  padding-top: 56px;
+}
+
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.fa-facebook-square{
+  font-size: 30px;
+  color: black;
+}
+
+.fa-info-circle{
+  font-size: 15px;
+  padding-right: 2px;
+  color: #8a8888;
+}
+
+/* #contact{
+  float: left;
+  margin-right: 150px;
+} */
+
+/* #detalji-row{
+  position: relative;
+  padding: 0 0 850em 0;
+  
+} */
+
+/* .form-row{
+  margin-right: 50px;
+} */
+
+/* #mapa{
+  display: block;
+  margin: 0 auto;
+} */
+
+#n-txt p{
+  text-align: justify;
+}
+
+@media screen and (max-width: 1000px) {
+  #mapa{
+    width: 400px;
+    height: 400px;
+    float: left;
+  }
+}
+
+
+@media screen and (min-width: 992px) {
+  #contact{
+  position: relative;
+} 
+#detalji-row{
+  position: absolute;
+  top: -15px;
+  right: 350px;
+  width: 500px;
+  }
+}
+
+
+
+
