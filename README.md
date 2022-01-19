@@ -1,2 +1,2 @@
-# Gor'kri-mont.github.io
+# Gor'kry-mont.github.io
 <p>Link na web stranicu: https://bojkip.github.io/gorkrimont.github.io/ </p>
